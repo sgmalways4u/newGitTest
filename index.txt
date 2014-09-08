@@ -11,3 +11,4 @@ git add -A
 git add filename
 git commit -m "made changes"
 git status
+git checkout branchname 
