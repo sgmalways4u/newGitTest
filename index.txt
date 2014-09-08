@@ -4,7 +4,6 @@
 	<li>git 1 testtube</li>
 	<li>git 1 test</li>
 	<li>test1</li>
-	
 </ul>
 git push
 git pull
